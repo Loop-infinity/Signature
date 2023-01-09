@@ -1,0 +1,163 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  */
+body{
+    font-family: 'Tahoma';
+    font-size: 14px;
+}
+
+.container{
+    background-color: white;
+    opacity: 0.9999999;
+    width: 724px;
+    /* height: 236px; */
+    height: 265px;
+    color: black;
+}
+
+.name{
+    margin-left: 2px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.designation{
+    margin-left: 2px;
+    font-size: 16px;
+    font-weight: 900;
+}
+
+.line{
+    border: none;
+    height: 2px;
+    width: 724px;
+    background: black;
+}
+
+.collins-logo{
+    margin-top: 10px;
+    margin-left: 2px;
+    width: 165px;
+    height: 60px;
+    
+}
+
+.earthworks-img{
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 350px;
+    width: 375px;
+    height: 225px;
+}
+
+.faux-absolute{
+    max-height:0;
+    position:relative;
+    opacity: 0.99999;
+}
+
+.contact-info{
+    margin-top: 75px;
+    margin-left: 2px;
+    font-size: 12px;
+    /* border: 2px red solid; */
+    width: 395px;
+    display: inline-block;  
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tel-title{
+    display: inline;
+    font-weight: 900;
+}
+
+.tel{
+    display: inline;
+    font-weight: 500;
+    margin-left: 3px;
+    margin-right: 4px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mob-title{
+    display: inline;
+    font-weight: 900;
+}
+
+.mob{
+    display: inline;
+    font-weight: 500;
+    margin-left: 3px;
+    margin-right: 4px;
+}
+
+.email-title{
+    display: inline;
+    font-weight: 900;
+}
+
+.email{
+    display: inline;
+    font-weight: 500;
+    margin-left: 3px;
+    /* margin-right: 4px; */
+}
+
+.address{
+    margin-top: 105px;
+    margin-left: 2px;
+    font-size: 11.7px;
+    font-weight: 500;
+    /* border: 2px red solid; */
+    width: 376px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.rospa-logo{
+    margin-top: 40px;
+    margin-left: 2px;
+    width: 35px;
+}
+
+.iso-logo{
+    margin-top: 40px;
+    margin-left: 45px;
+    width: 140px;
+}
+
+.co2-logo{
+    margin-top: 40px;
+    margin-left: 190px;
+    width: 85px;
+}
+
+.social-media-links{
+    margin-top: 15px;
+    margin-left: 620px;
+}
+
+.icon{
+    /* background: url('/Assets/INSTAGRAM-LOGO.png'); */
+    width: 19px;
+    height: 19px;
+    margin-right: 2px;
+}
+
+.icon-link{
+    display: inline-block;
+}
+
+.brochure{
+    margin-top: 35px;
+    margin-left: 650px;
+    width: 50px;
+}
+
+.brochure-text{
+    color: rgb(239, 236, 236);
+    font-size: 5.5px;
+    margin-top: 70px;
+    margin-left: 625px;
+    width: 103px;
+    text-align: center;
+}
+
+

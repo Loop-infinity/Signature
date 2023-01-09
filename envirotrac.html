@@ -94,10 +94,10 @@
     <script>
         $(document).ready(function () {
             
-            $.when($.get("/css/signature.css"))
+            $.when($.get("/Signature/css/signature.css"))
                     .done(function(response1) {
                         cssStyleSheet = response1;
-                        $.when($.get("/css/envirotrac-override.css"))
+                        $.when($.get("/Signature/css/envirotrac-override.css"))
                         .done(function(response2) {
                             cssStyleSheet = cssStyleSheet.concat(response2);
                         });

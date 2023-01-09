@@ -117,10 +117,10 @@
     <script>
         $(document).ready(function () {
             
-            $.when($.get("/css/signature.css"))
+            $.when($.get("/Signature/css/signature.css"))
                     .done(function(response1) {
                         cssStyleSheet = response1;
-                        $.when($.get("/css/training-override.css"))
+                        $.when($.get("/Signature/css/training-override.css"))
                         .done(function(response2) {
                             cssStyleSheet = cssStyleSheet.concat(response2);
                         });

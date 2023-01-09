@@ -1,0 +1,161 @@
+
+
+.signature1{
+    
+}
+
+.container{
+    background-color: white;
+    position: relative;
+    width: 724px;
+    /* height: 236px; */
+    height: 280px;
+    z-index: 0;
+}
+
+.name{
+    /*position: absolute;
+    top: 0px; */
+    /*position: absolute;*/
+    left: 2px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.designation{
+    /*position: absolute;*/
+    top: 20px;
+    left: 2px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.collins-logo{
+    /*position: absolute;*/
+    top: 70px;
+    left: 2px;
+    width: 170px;
+    height: 60px;
+}
+
+.line{
+    border: none;
+    height: 2px;
+    width: 724px;
+    top: 55px;
+    /*position: absolute;*/
+    background: black;
+}
+
+.contact-info{
+    /*position: absolute;*/
+    top: 140px;
+    left: 2px;
+    font-size: 11px;
+    /* border: 2px red solid; */
+    width: 380px;
+}
+
+.tel-title{
+    display: inline;
+    font-weight: bold;
+}
+
+.tel{
+    display: inline;
+    font-weight: 700;
+    margin-left: 2px;
+    margin-right: 4px;
+}
+
+.mob-title{
+    display: inline;
+    font-weight: bold;
+}
+
+.mob{
+    display: inline;
+    font-weight: 700;
+    margin-left: 2px;
+    margin-right: 4px;
+}
+
+.email-title{
+    display: inline;
+    font-weight: bold;
+}
+
+.email{
+    display: inline;
+    font-weight: 700;
+    margin-left: 2px;
+    /* margin-right: 4px; */
+}
+
+.address{
+    /*position: absolute;*/
+    top: 170px;
+    left: 2px;
+    font-size: 11px;
+    font-weight: 800;
+    /* border: 2px red solid; */
+    width: 375px;
+}
+
+.rospa-logo{
+    /*position: absolute;*/
+    top: 210px;
+    left: 2px;
+    width: 40px;
+    height: 60px;
+}
+
+.iso-logo{
+    /*position: absolute;*/
+    top: 205px;
+    left: 55px;
+    width: 165px;
+    height: 80px;
+}
+
+.co2-logo{
+    /*position: absolute;*/
+    top: 205px;
+    left: 230px;
+    width: 105px;
+    height: 55px;
+}
+
+.earthworks-img{
+    /*position: absolute;*/
+    top: 55px;
+    left: 350px;
+    width: 375px;
+    height: 225px;
+}
+
+.social-media-links{
+    /*position: absolute;*/
+    top: 70px;
+    right: 10px;
+    display: inline;
+}
+
+.icon{
+    /* background: url('/Assets/INSTAGRAM-LOGO.png'); */
+    width: 19px;
+    height: 19px;
+}
+
+.icon-link{
+    display: inline-block;
+}
+
+.brochure{
+    /*position: absolute;*/
+    top: 215px;
+    right: 10px;
+    width: 50px;
+}
+
+

@@ -10,7 +10,7 @@ $(document).ready(function () {
       parseExcel(input);
     });
 
-    $.when($.get("/css/signature.css"))
+    $.when($.get("/Signature/css/signature.css"))
             .done(function(response) {
                 cssStyleSheet = response;
             });

@@ -98,10 +98,10 @@
     <script>
         $(document).ready(function () {
             
-            $.when($.get("/css/signature.css"))
+            $.when($.get("/Signature/css/signature.css"))
                     .done(function(response1) {
                         cssStyleSheet = response1;
-                        $.when($.get("/css/earthworks-dark-override.css"))
+                        $.when($.get("/Signature/css/earthworks-dark-override.css"))
                         .done(function(response2) {
                             cssStyleSheet = cssStyleSheet.concat(response2);
                         });

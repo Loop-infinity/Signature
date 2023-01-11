@@ -11,18 +11,21 @@ body{
     /* height: 236px; */
     height: 265px;
     color: black;
+    font-family: 'Tahoma';
 }
 
 .name{
     margin-left: 2px;
     font-size: 16px;
     font-weight: 500;
+    font-family: 'Tahoma';
 }
 
 .designation{
     margin-left: 2px;
     font-size: 16px;
     font-weight: 900;
+    font-family: 'Tahoma';
 }
 
 .line{
@@ -61,12 +64,14 @@ body{
     /* border: 2px red solid; */
     width: 395px;
     display: inline-block;  
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Tahoma';
+    /* font-family: Tahoma, Geneva, Verdana, sans-serif; */
 }
 
 .tel-title{
     display: inline;
     font-weight: 900;
+    font-family: 'Tahoma';
 }
 
 .tel{
@@ -74,12 +79,14 @@ body{
     font-weight: 500;
     margin-left: 3px;
     margin-right: 4px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Tahoma';
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
 }
 
 .mob-title{
     display: inline;
     font-weight: 900;
+    font-family: 'Tahoma';
 }
 
 .mob{
@@ -87,17 +94,20 @@ body{
     font-weight: 500;
     margin-left: 3px;
     margin-right: 4px;
+    font-family: 'Tahoma';
 }
 
 .email-title{
     display: inline;
     font-weight: 900;
+    font-family: 'Tahoma';
 }
 
 .email{
     display: inline;
     font-weight: 500;
     margin-left: 3px;
+    font-family: 'Tahoma';
     /* margin-right: 4px; */
 }
 
@@ -108,7 +118,8 @@ body{
     font-weight: 500;
     /* border: 2px red solid; */
     width: 376px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Tahoma';
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
 }
 
 .rospa-logo{

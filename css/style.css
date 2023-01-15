@@ -7,10 +7,36 @@
         
         body{
             margin: 50px;
-            background-color: #3a3737;
+            background-color: #ffffff;
             color: rgb(0, 0, 0);
-            font-family: 'Open Sans', sans-serif;
+            font-family: 'Tahoma';
             font-size: 14px;
+        }
+
+        .select-template-box{
+            /* background-color: hsl(197, 66%, 91%); */
+            border-radius: 20px;
+            padding: 20px;
+            width: fit-content;
+            font-size: 30px;
+            -webkit-border-radius: 20px;
+            -moz-border-radius: 20px;
+            -ms-border-radius: 20px;
+            -o-border-radius: 20px;
+            margin-left: auto;
+            margin-right: auto;
+            box-shadow: rgba(185, 227, 255, 0.4) 5px 5px, rgba(33, 152, 221, 0.3) 10px 10px, rgba(53, 240, 46, 0.2) 15px 15px, rgba(21, 199, 15, 0.1) 20px 20px, rgba(88, 158, 223, 0.062) 25px 25px;
+            /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+        }
+
+        .styled-link{
+            /* padding: 5px;
+            border-radius: 10px;
+            -webkit-border-radius: 10px;
+            -moz-border-radius: 10px;
+            -ms-border-radius: 10px;
+            -o-border-radius: 10px;
+            box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px; */
         }
 
         .grid-container {

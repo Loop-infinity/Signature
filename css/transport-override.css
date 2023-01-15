@@ -1,29 +1,56 @@
 .collins-logo{
     margin-top: 0;
-    width: 170px;
+    margin-left: 0;
+    width: 160px;
     height: auto;
+}
+
+.social-media-links{
+    margin-top: 12px;
+    margin-left: 629px;
+}      
+
+.contact-info{
+    margin-left: 5px;
+    margin-top: 65px;
+}
+
+.address{
+    margin-left: 5px;
+    margin-top: 80px;
 }
 
 .fors-logo{
     margin-top: 53px;
-    margin-left: 135px;
-    width: 24px;
+    margin-left: 137px;
+    width: 26px;
 }
 
 .clocs-logo{
     margin-top: 53px;
-    margin-left: 165px;
-    width: 36px;
+    margin-left: 170px;
+    width: 37px;
 }
 
 .iso-logo{
     width: 130px;
     margin-left: 2px;
-    margin-top: 50px;
+    margin-top: 51px;
 }
 
 .co2-logo{
-    margin-left: 210px;
-    margin-top: 50px;
-    width: 75px;
+    margin-left: 212px;
+    margin-top: 51px;
+    width: 77px;
+}
+
+
+.brochure{
+    margin-top: 45px;
+    margin-left: 667px;
+}
+
+.brochure-text{
+    margin-top: 80px;
+    margin-left: 624px;
 }

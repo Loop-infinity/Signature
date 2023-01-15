@@ -144,11 +144,11 @@
 .icon{
     /* background: url('/Assets/INSTAGRAM-LOGO.png'); */
     width: 15px;
-    margin-right: 3px;
 }
 
 .icon-link{
-    display: inline-block;
+    text-decoration: none;
+    margin-right: 3px;
 }
 
 .brochure{
@@ -164,6 +164,7 @@
     margin-left: 625px;
     width: 88px;
     text-align: center;
+    color: rgba(248, 243, 243, 0.719);
 }
 
 

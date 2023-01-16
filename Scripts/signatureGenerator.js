@@ -55,8 +55,8 @@ function generateSignatures(data){
 
         if(employee.Address) clone.find('.address').html(employee.Address);
 
-        clone.find('.tel').html(employee.MobileNumber);
-        clone.find('.mob').html(employee.TelephoneNumber);
+        clone.find('.tel').html(employee.TelephoneNumber);
+        clone.find('.mob').html(employee.MobileNumber);
         clone.find('.email').html(employee.Email);
 
         clone.appendTo("#output");

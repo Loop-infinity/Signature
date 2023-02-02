@@ -11,7 +11,7 @@
 
 .contact-info{
     margin-top: 73px;
-    margin-left: 3px;
+    margin-left: 5px;
     /* border: 2px red solid; */
     width: 395px;
     display: inline-block;
@@ -20,17 +20,17 @@
 }
 
 .address{
-    margin-left: 3px;
-    margin-top: 89px;
+    margin-left: 5px;
+    /* margin-top: 89px; */
 }
 
 .iso-logo{
-    margin-top: 43px;
+    /* margin-top: 43px; */
     margin-left: 2px;
 }
 
 .co2-logo{
-    margin-top: 44px;
+    /* margin-top: 44px; */
     margin-left: 135px;
 }
 

@@ -6,7 +6,7 @@
         /* @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');  */
         
         body{
-            margin: 50px;
+            margin: 40px;
             background-color: #ffffff;
             color: rgb(0, 0, 0);
             font-family: 'Tahoma';
@@ -18,7 +18,7 @@
             border-radius: 20px;
             padding: 20px;
             width: fit-content;
-            font-size: 30px;
+            font-size: 25px;
             -webkit-border-radius: 20px;
             -moz-border-radius: 20px;
             -ms-border-radius: 20px;
